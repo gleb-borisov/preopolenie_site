@@ -10,7 +10,7 @@ const programs = [
             'Сенсорная комната и адаптивное оборудование',
             'Группы раннего развития',
         ],
-        image: 'https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=800&q=80',
+        image: '/images/program-first-steps.jpg',
         imageAlt: 'Ребёнок в игровой комнате с развивающими игрушками',
         color: 'sage',
         icon: (
@@ -32,7 +32,7 @@ const programs = [
             'Навыки самообслуживания',
             'Подготовка к инклюзивному обучению',
         ],
-        image: 'https://images.unsplash.com/photo-1596464716127-f2a82984de30?w=800&q=80',
+        image: '/images/program-world-around.jpg',
         imageAlt: 'Дети рисуют вместе за столом в светлой комнате',
         color: 'warm-blue',
         icon: (
@@ -55,7 +55,7 @@ const programs = [
             'Навыки финансовой грамотности',
             'Программа сопровождаемого проживания',
         ],
-        image: 'https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=800&q=80',
+        image: '/images/program-own-path.jpg',
         imageAlt: 'Подросток работает в мастерской с наставником',
         color: 'sand',
         icon: (
